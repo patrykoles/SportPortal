@@ -2,7 +2,9 @@
 
 ## Description  
 **SportPortal** is a social networking web application designed to help users organize and join sports games and find activity partners in their area. The platform streamlines event creation, participation, and communication among sports enthusiasts.
+
 ![Main page](screen0.png)
+
 ## Key Functionalities  
 - **User Registration & Authentication**  
   - New users can create an account and log in to access the platform's full functionality.  
@@ -13,12 +15,10 @@
   - Posts can include details such as the type of sport, location, date, and time.  
   - Posts are visible on the main feed and can be edited or deleted by their authors.  
 
-  ![Creating new post](screen1.png)
-
 - **Post Filtering & Discovery**  
   - Users can browse all public posts and filter them by sport, date, or time to quickly find suitable events.  
 
-  ![Filtering posts](screen2.png)
+  ![Filtering posts](screen1.png)
 
 - **Joining & Leaving Events**  
   - Users can join events created by others and see who else is participating.  
@@ -28,7 +28,7 @@
   - Users can add comments under posts to communicate with event organizers or participants.  
   - Comments can be edited or deleted by their authors.  
 
-  ![Adding a comment](screen3.png)
+  ![Comments](screen2.png)
 
 - **User Profiles**  
   - Users can view their own profile with a summary of events they created or joined.  
